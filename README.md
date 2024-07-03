@@ -1,5 +1,5 @@
 # rn-assignment6-11205912
-# VagasShopping App
+# FrimpongShopping App
 
 ## Introduction
 This project is a simple shopping application developed with React Native. It enables users to explore a selection of products, add them to a shopping cart, and review the cart's contents. The app features a modern and clean user interface.
