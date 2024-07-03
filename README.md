@@ -27,11 +27,11 @@ Remove from Cart: When a product is removed from the cart, it is filtered out fr
 
 ### Screenshots
 
-![Screen 1](/Frimpongshoppingapp/screenshot1.jpg)
+![Screen 1](/screenshot1.jpg)
 
-![Screen 2](/Frimpongshoppingapp/screenshot2.jpg)
+![Screen 2](screenshot2.jpg)
 
-![Screen 3](/FrimpongShoppingApp/screenshot3.jpg)
+![Screen 3](/screenshot3.jpg)
 ### How to Run the App
 
 Clone the repository.
